@@ -1,0 +1,1 @@
+SMURF (Sepa Mail Universal Resource Formater) allows for customers of member community SEPAmail generate in relation to their ERP software format documents SEPAmail.
